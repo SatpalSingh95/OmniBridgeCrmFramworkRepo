@@ -1,0 +1,5 @@
+# Created at 2025-01-09T11:38:22.163
+Boot Manifest-JAR contains absolute paths in classpath 'D:\CRMProject\omniBridge\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
