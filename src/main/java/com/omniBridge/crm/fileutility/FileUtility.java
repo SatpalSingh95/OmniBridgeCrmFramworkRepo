@@ -8,7 +8,7 @@ public class FileUtility {
 
 	public String getDataFromPropertiesFile(String key) throws IOException
 	{
-		FileInputStream fis=new FileInputStream("D:\\CRMProject\\omniBridge\\configureAppData\\Commondata.properties");
+		FileInputStream fis=new FileInputStream("./configureAppData/Commondata.properties");
 		
 		Properties pObj=new Properties();
 		pObj.load(fis);
